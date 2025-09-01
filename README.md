@@ -12,7 +12,7 @@ O objetivo é organizar materiais de aprendizado, facilitar a documentação e r
 - Elétrica Básica  
 - Eletrônica Básica com Arduino  
 - Git e GitHub (conceitos e práticas iniciais)  
-- Inteligência Artificial (IA) – introdução  
+- Inteligência Artificial (AI) – introdução  
 
 ### 🔜 UC-2 – Sistemas Operacionais
 - Microsoft Windows  
